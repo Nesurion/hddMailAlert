@@ -1,0 +1,15 @@
+{
+
+"address" : "smtp.gmail.com",
+"port" : 587,
+"domain" : "gmail.com",
+"hddMountPoint" : "PathToMountPoint",
+"percentWarningLevel" : 90,
+"GBWarningLevel" : 50,
+"criticalPercentWarningLevel" : 99,
+"criticalGBWarningLevel" : 5,
+"email" : {"to":"your.mail@address.com",
+	 "from":"YourPC"
+	}
+
+}
